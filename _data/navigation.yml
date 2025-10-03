@@ -1,0 +1,12 @@
+# main navigation
+main:
+  - title: "Home"
+    url: /liminal-notes/
+  - title: "Academic Articles"
+    url: /articles/
+  - title: "Projects"
+    url: /projects/
+    - title: "Collaborations"
+    url: /collaborations/
+ - title: "Musings"
+    url: /musings/
