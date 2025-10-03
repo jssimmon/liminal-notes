@@ -1,0 +1,10 @@
+# Ignore the generated website
+_site/
+
+# Ignore downloaded gems
+vendor/
+
+# Ignore bundler and jekyll cache files
+.bundle/
+.sass-cache/
+.jekyll-metadata

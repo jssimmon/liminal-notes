@@ -1,0 +1,14 @@
+# -- Site Settings --
+title: Liminal Notes
+description: "Musings, scholarship, and other bits and pieces."
+url: "https://jssimmon.github.io" # <-- CHANGE THIS
+baseurl: "/liminal-notes"
+
+# -- Theme Settings --
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dirt"
+
+# -- Author Info --
+author:
+  name: "Jonthan Simmons"
+  bio: "Sociology PhD, writing advisor, secular humanist."
