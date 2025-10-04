@@ -4,9 +4,11 @@ layout: single
 permalink: /articles/
 ---
 
+Look, I wrote these. Not saying it wasn't hard. Not saying they're not important for... career things, knowledge production, the collective understanding of secularism and social movements, whatever. But let's be honest: no one really cares. Still, if you do happen to care about peer-reviewed research on atheist activism, Indigenous nonreligion, or why homeopathy is basically magic thinking with better marketing—here you go. Sorted by year, full of citations, survived Reviewer #2.
+
 ### 2024
-* **Navigating ethical challenges in generative AI-enhanced research: The ethical framework for responsible generative AI use** D Eacersall, L Pretorius, I Smirnov, E Spray, S Illingworth, R Chugh, J Simmons, et al.  
-    *arXiv preprint arXiv:2501.09021*
+* **Navigating ethical challenges in generative AI-enhanced research: The ETHICAL framework for responsible generative AI use** D Eacersall, L Pretorius, I Smirnov, E Spray, S Illingworth, R Chugh, J Simmons, et al.  
+    *Journal of Applied Learning & Teaching 8 (2), 1-14*
 
 * **Indigenous Atheists in Canada: Challenging Assumptions and Navigating Belonging** J Simmons  
     *Secular Studies 6 (1), 62-83*

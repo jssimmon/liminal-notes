@@ -4,7 +4,9 @@ layout: single
 permalink: /projects/
 ---
 
-Here are some of the academic and creative projects I am currently involved in.
+**Current Projects (Or: Things I'm Actually Working On Right Now)**
+
+This is kind of a grab bag. Some stuff I'm working on now, some stuff that's coming out soon, some stuff that already happened but doesn't fit neatly on the other pages. Research, book chapters, short fiction—it's all here.
 
 ---
 
