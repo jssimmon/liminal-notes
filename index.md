@@ -3,13 +3,13 @@ layout: single
 author_profile: true
 ---
 
-I'm a sociologist who studies atheism and Indigenous nonreligion. My perspective is shaped by secular humanism and a willingness to question orthodoxies, which is a fancy way of saying I'm professionally annoying.
+I'm Jonathan Simmons. This is a repository of my brain.
 
-This site is where I share that work—academic papers, public writing, the occasional short story when the brain weasels demand it. When I'm not writing, I'm usually painting Warhammer miniatures that will never see actual gameplay because I am a coward who fears dice.
+This site is where I share that work—academic papers, public writing, the occasional short story when the brain weasels demand it. 
 
 ---
 
-### Recent Public Writing
+### recent public writing
 
 **[The Humanist Response to Authoritarianism](https://secularhumanism.org/2025/07/the-humanist-response-to-authoritarianism/)**
 *Free Inquiry*, Volume 45, No. 5 (August/September 2025)

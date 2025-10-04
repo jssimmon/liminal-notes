@@ -1,12 +1,12 @@
 # main navigation
 main:
-  - title: "Home"
+  - title: "home"
     url: /
-  - title: "Academic Articles"
+  - title: "academic articles"
     url: /articles/
-  - title: "Projects"
+  - title: "projects"
     url: /projects/
-  - title: "Reading List"
+  - title: "reading list"
     url: /reading-list/
-  - title: "Musings"
-    url: /musings/
+  - title: "oddities"
+    url: /oddities/

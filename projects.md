@@ -1,16 +1,16 @@
 ---
-title: "Projects"
+title: "projects"
 layout: single
 permalink: /projects/
 ---
 
-**Current Projects (Or: Things I'm Actually Working On Right Now)**
+**current projects**
 
 This is kind of a grab bag. Some stuff I'm working on now, some stuff that's coming out soon, some stuff that already happened but doesn't fit neatly on the other pages. Research, book chapters, short fiction—it's all here.
 
 ---
 
-### Research Project: Indigenous Nonreligion
+### research project: indigenous nonreligion
 
 **Title:** Indigenous nonreligion in Aotearoa New Zealand and Canada  
 **Fund:** Marsden Fund (Wellington, NZ)  
@@ -20,14 +20,14 @@ This is kind of a grab bag. Some stuff I'm working on now, some stuff that's com
 >
 > This project explores the individual, sociocultural, historical, and political processes contributing to the rise of Indigenous nonreligion through a comparative case study of Aotearoa and Canada... By centring Indigenous expressions of nonreligion and exploring its connection with decolonial activism, the findings of this comparative project will address a critical gap in the cross-cultural study of nonreligion, provide new perspectives on the ongoing debate on secularisation, and advance our understanding of contemporary religious change.
 
-### Book Chapter: AI and Academic Writing
+### book chapter: ai and academic writing
 
 **Working Title:** "Did I Write That?": Unpacking False AI Plagiarism Accusations in Academic Writing  
 **Publication:** *Generative AI-Enhanced Research: Ethical, Practical, and Transformative Approaches* (Forthcoming)
 
 > An invited chapter submission exploring the challenges and ethical dimensions of false accusations of AI-driven plagiarism in academic settings. The chapter will be part of a two-volume open book publication and will undergo peer review.
 
-### Creative Writing: Short Fiction
+### creative writing: short fiction
 
 **Story:** "Les Guérisseurs"  
 **Publication:** *On Spec Magazine*, Issue #133
