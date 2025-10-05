@@ -123,7 +123,7 @@ GEM
     rb-inotify (0.11.1)
       ffi (~> 1.0)
     rexml (3.4.4)
-    rouge (4.6.1)
+    rouge (3.30.0)
     safe_yaml (1.0.5)
     sass-embedded (1.93.2)
       google-protobuf (~> 4.31)
@@ -188,8 +188,12 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.3)
-  minimal-mistakes-jekyll
-  webrick
+  jekyll-feed (~> 0.15)
+  jekyll-gist
+  jekyll-include-cache (~> 0.2)
+  jekyll-sitemap
+  minimal-mistakes-jekyll (~> 4.24)
+  rouge (~> 3)
 
 BUNDLED WITH
    2.7.2
