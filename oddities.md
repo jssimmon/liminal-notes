@@ -23,7 +23,7 @@ My love for synthwave runs deep. Here are a few channels and tracks that capture
 
 ### city pop
 
-I've been falling down a rabbit hole of Japanese City Pop from the 1980s. It's a genre built on an almost impossibly optimistic and luxurious vibe—a soundtrack for an economic boom that felt like it would never end. It's fascinating how a sound so breezy and carefree can also feel so melancholic in retrospect.
+I've been falling down a rabbit hole of Japanese City Pop from the 1980s[**.**](https://youtu.be/R0DXhUF1hP8?si=bB5bA111nylZrSXY). It's a genre built on an almost impossibly optimistic and luxurious vibe—a soundtrack for an economic boom that felt like it would never end. It's fascinating how a sound so breezy and carefree can also feel so melancholic in retrospect.
 
 * **[Skylines and Supras: Exploring City Pop's Resurgence in the Age of Anemoia](https://drive.google.com/file/d/1zOLojLfVsybBHEo2Se0YnhtHoxiIqzJ9/view)**
     I'm not the only one fascinated by this. A recent dissertation on the topic perfectly captures the phenomenon. The author writes: "I link the ideas of Internet aesthetics, 80s music, neoliberalism, and more, connecting it to the phenomenon of nostalgia for a time we never existed in, which I believe is responsible for City Pop's (semi) recent resurgence... Hope some of you might find this worth a read!"

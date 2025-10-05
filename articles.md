@@ -38,7 +38,7 @@ Look, I wrote these. Not saying it wasn't hard. Not saying they're not important
 
 ### 2018
 * **‘Not that kind of atheist’: Scepticism as a lifestyle movement** J Simmons  
-    *Social Movement Studies 17 (4), 437-450* > Examines how some atheist activists prefer the "sceptic" label to distance themselves from the political baggage of the New Atheism movement.
+    *Social Movement Studies 17 (4), 437-450* > [[PDF]]({{ site.baseurl }}/assets/pdf/not-that-kind-of-atheist-scepticism-as-a-lifestyle-movement.pdf) Examines how some atheist activists prefer the "sceptic" label to distance themselves from the political baggage of the New Atheism movement.
 
 * **Atheist Identity and Lifestyle Among Activists in Edmonton** J Simmons
 
