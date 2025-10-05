@@ -3,10 +3,6 @@ title: "The funny business with paragraphs"
 date: 2025-10-04
 ---
 
-Here's the revised version with no sentences beginning with "It":
-
----
-
 I was at a conference not too long ago, and the keynote speaker, a kind of big player in the US academic writing space, made a comment that he didn't understand why paragraphs got so much focus from writing studies people. I rolled my eyes at the time because it takes very little time to understand why we put so much emphasis on the paragraph. But if I were to steel-up his argument, what was he getting at? Perhaps he didn't like the mechanical approach with topic sentence, supporting sentences, and some kind of closer (transition, summary, etc.). Maybe he thought it was better pedagogically to focus on nurturing more holistic approaches to clarity. Or perhaps he just felt it was a crutch for writing coaches. We'll never know, but I'm unabashedly pro-paragraph as both a unit of composition and a tool for teaching writerly thinking.
 
 The paragraph offers something that broader discourse-level instruction often struggles to provide. At this manageable scale, students can practice the fundamental moves of academic argument. Within the bounds of a paragraph, writers learn to make a claim, substantiate it, and connect it to larger ideas. They rehearse in miniature what they'll need to do across an entire paper. This approach isn't reductive or mechanical. The paragraph is scaffolding. The space becomes one where abstraction meets application, where students can see how ideas develop through accumulation and elaboration rather than mere assertion.
