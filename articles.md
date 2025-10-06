@@ -15,7 +15,7 @@ Eacersall, D., Pretorius, L., Smirnov, I., Spray, E., Illingworth, S., Chugh, R.
 
 Simmons, J. (2024). Indigenous atheists in Canada: Challenging assumptions and navigating belonging. *Secular Studies, 6*(1). [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2024-indigenous-atheists-in-canada.pdf)
 
-Simmons, J. (2024). The politics of nonreligion. In *Secularity and nonreligion in North America: An introduction*.
+Simmons, J. (2024). The politics of non-religion. In J. M. Smith & R. T. Cragun (Eds.), *Secularity and nonreligion in North America: An introduction*. Bloomsbury Academic.
 
 ### 2022
 
