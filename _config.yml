@@ -1,19 +1,4 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.author.name }}, {{ site.author.bio }}, etc.
-
 title: Liminal Notes
 description: "Musings, scholarship, and other bits and pieces."
 url: "https://jssimmon.github.io"
@@ -22,12 +7,12 @@ repository: "jssimmon/liminal-notes"
 
 # Theme settings
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "neon"
+minimal_mistakes_skin: "plum"
 
 # Author settings
 author:
-  name: "Jonathan Simmons" # <-- EDIT THIS
-  bio: "Sociology PhD, writing advisor, secular humanist." # <-- EDIT THIS
+  name: "Jonathan Simmons"
+  bio: "Research and writing on sociology, secularism, and culture."
 
 # Defaults
 defaults:
@@ -37,7 +22,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false # <-- Hides author profile from blog posts by default
       read_time: true
       comments: # true
       share: true
