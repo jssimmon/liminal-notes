@@ -7,7 +7,7 @@ repository: "jssimmon/liminal-notes"
 
 # Theme settings
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "plum"
+minimal_mistakes_skin: "dirt"
 
 # Author settings
 author:
