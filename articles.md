@@ -1,5 +1,5 @@
 ---
-title: "academic articles"
+title: "Academic Articles"
 layout: single
 permalink: /articles/
 author_profile: true
@@ -9,56 +9,50 @@ My scholarly work explores the sociology of non-religion, with a focus on atheis
 
 ### 2025
 
-* **Navigating ethical challenges in generative Al-enhanced research: The ETHICAL framework for responsible generative Al use** (with D. Eacersall et al.)  
-    *Journal of Applied Learning & Teaching 8 (2)* > [[PDF]]({{ site.baseurl }}/assets/pdf/eacersall-et-al-2025-navigating-ethical-ai.pdf) An article proposing a new framework for the ethical use of Generative AI in the research process.
+Eacersall, D., Pretorius, L., Smirnov, I., Spray, E., Illingworth, S., Chugh, R., ... Simmons, J., et al. (2025). Navigating ethical challenges in generative AI-enhanced research: The ETHICAL framework for responsible generative AI use. *Journal of Applied Learning & Teaching, 8*(2). [[PDF]]({{ site.baseurl }}/assets/pdf/eacersall-et-al-2025-navigating-ethical-ai.pdf)
 
 ### 2024
 
-* **Indigenous Atheists in Canada: Challenging Assumptions and Navigating Belonging** *Secular Studies 6 (1)* > [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2024-indigenous-atheists-in-canada.pdf)
+Simmons, J. (2024). Indigenous atheists in Canada: Challenging assumptions and navigating belonging. *Secular Studies, 6*(1). [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2024-indigenous-atheists-in-canada.pdf)
 
-* **The Politics of Nonreligion** *In "Secularity and Nonreligion in North America: An Introduction"*
+Simmons, J. (2024). The politics of nonreligion. In *Secularity and nonreligion in North America: An introduction*.
 
 ### 2022
 
-* **Police officers as filmmakers: the cinematography of body worn cameras** (with A. Sandhu)  
-    *Policing and Society* > [[PDF]]({{ site.baseurl }}/assets/pdf/sandhu-simmons-2022-police-officers-as-filmmakers.pdf) A theoretical piece that explores police body-worn cameras as a cinematic technology that shapes public and legal narratives.
+Sandhu, A., & Simmons, J. S. (2022). Police officers as filmmakers: The cinematography of body worn cameras. *Policing and Society*. [[PDF]]({{ site.baseurl }}/assets/pdf/sandhu-simmons-2022-police-officers-as-filmmakers.pdf)
 
 ### 2020
 
-* **Feminist Women’s Attitudes towards Feminist Men in the Canadian Atheist Movement** *Religion and Gender 10 (2)* > [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2020-feminist-womens-attitudes.pdf) This study explores how feminist women in the atheist movement perceive their male allies.
+Simmons, J. (2020). Feminist women’s attitudes towards feminist men in the Canadian atheist movement. *Religion and Gender, 10*(2). [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2020-feminist-womens-attitudes.pdf)
 
-* **Between Islam and Islamophobia: Stigma management among Canadian atheist activists** (with A. Sandhu)  
-    *Secular Studies 2 (2)* > [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-sandhu-2020-between-islam-and-islamophobia.pdf) Examines how atheist activists of Muslim heritage navigate the dual pressures of leaving their faith and being perceived as contributing to Islamophobia.
+Simmons, J., & Sandhu, A. (2020). Between Islam and Islamophobia: Stigma management among Canadian atheist activists. *Secular Studies, 2*(2). [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-sandhu-2020-between-islam-and-islamophobia.pdf)
 
 ### 2019
 
-* **Politics, Individualism, and Atheism: An Examination of the Political Attitudes of Atheist Activists in a Canadian City** *Secularism and Nonreligion 8* > [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2019-politics-individualism-and-atheism.pdf) This article examines the political attitudes and values of atheist activists in Edmonton, Alberta.
+Simmons, J. (2019). Politics, individualism, and atheism: An examination of the political attitudes of atheist activists in a Canadian city. *Secularism and Nonreligion, 8*. [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2019-politics-individualism-and-atheism.pdf)
 
-* **Homeopathy As a Form of Practical Magic** *International Journal of Cultic Studies 10* > [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2019-homeopathy-as-magic.pdf) This paper argues that scholars should take the esoteric and magical roots of homeopathy seriously to understand its persistence.
+Simmons, J. (2019). Homeopathy as a form of practical magic. *International Journal of Cultic Studies, 10*. [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2019-homeopathy-as-magic.pdf)
 
 ### 2018
 
-* **‘Not that kind of atheist’: Scepticism as a lifestyle movement** *Social Movement Studies 17 (4)* > [[PDF]]({{ site.baseurl }}/assets/pdf/not-that-kind-of-atheist-scepticism-as-a-lifestyle-movement.pdf)
+Simmons, J. (2018). ‘Not that kind of atheist’: Scepticism as a lifestyle movement. *Social Movement Studies, 17*(4). [[PDF]]({{ site.baseurl }}/assets/pdf/not-that-kind-of-atheist-scepticism-as-a-lifestyle-movement.pdf)
 
 ### 2017
 
-* **Atheism Plus What? Social Justice and Lifestyle Politics Among Edmonton Atheists** *Canadian Journal of Sociology 42 (4)* > [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2017-atheism-plus-what.pdf) An ethnographic study of schisms within the secularist movement.
+Simmons, J. (2017). Atheism plus what? Social justice and lifestyle politics among Edmonton atheists. *Canadian Journal of Sociology, 42*(4). [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2017-atheism-plus-what.pdf)
 
 ### 2015
 
-* **An Expansion of the Rational Choice Approach: Social Control in the Children of God during the 1970s and 1980s** (with S.A. Kent)  
-    *International Journal for the Study of New Religions 6 (1)*
+Simmons, J., & Kent, S. A. (2015). An expansion of the rational choice approach: Social control in the Children of God during the 1970s and 1980s. *International Journal for the Study of New Religions, 6*(1).
 
 ### 2012
 
-* **Positive psychology as a scientific movement** *International Journal of Science in Society 4 (1)* > [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2012-positive-psychology-scientific-movement.pdf)
+Simmons, J. (2012). Positive psychology as a scientific movement. *International Journal of Science in Society, 4*(1). [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2012-positive-psychology-scientific-movement.pdf)
 
 ---
 
 ### Theses
 
-* **Atheist Identity and Lifestyle Among Activists in Edmonton** (2018)  
-    *PhD Dissertation, Department of Sociology, University of Alberta* > [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2018-phd-dissertation.pdf)
+Simmons, J. S. (2018). *Atheist identity and lifestyle among activists in Edmonton* [Doctoral dissertation, University of Alberta]. [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2018-phd-dissertation.pdf)
 
-* **Positive Psychology as a Scientific Movement: A Case Study in Scientific Legitimacy** (2012)  
-    *MA Thesis, Department of Sociology, University of New Brunswick* > [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2012-ma-thesis.pdf)
+Simmons, J. S. (2012). *Positive psychology as a scientific movement: A case study in scientific legitimacy* [Master's thesis, University of New Brunswick]. [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2012-ma-thesis.pdf)
