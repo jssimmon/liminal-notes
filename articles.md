@@ -2,61 +2,63 @@
 title: "academic articles"
 layout: single
 permalink: /articles/
+author_profile: true
 ---
 
-Look, I wrote these. Not saying it wasn't hard. Not saying they're not important for... career things, knowledge production, the collective understanding of secularism and social movements, whatever. But let's be honest: no one really cares. Still, if you do happen to care about peer-reviewed research on atheist activism, Indigenous nonreligion, or why homeopathy is basically magic thinking with better marketing—here you go. Sorted by year, full of citations, survived Reviewer #2.
+My scholarly work explores the sociology of non-religion, with a focus on atheist activism and identity. A recurring theme across these publications is the tension between individualism and community. I am particularly interested in how non-believers navigate internal political conflicts, manage social stigma, and construct meaningful identities in a world that often defaults to belief.
 
----
+### 2025
+
+* **Navigating ethical challenges in generative Al-enhanced research: The ETHICAL framework for responsible generative Al use** (with D. Eacersall et al.)  
+    *Journal of Applied Learning & Teaching 8 (2)* > [[PDF]]({{ site.baseurl }}/assets/pdf/eacersall-et-al-2025-navigating-ethical-ai.pdf) An article proposing a new framework for the ethical use of Generative AI in the research process.
 
 ### 2024
-* **Navigating ethical challenges in generative AI-enhanced research: The ETHICAL framework for responsible generative AI use** D Eacersall, L Pretorius, I Smirnov, E Spray, S Illingworth, R Chugh, J Simmons, et al.  
-    *Journal of Applied Learning & Teaching 8 (2), 1-14*
 
-* **Indigenous Atheists in Canada: Challenging Assumptions and Navigating Belonging** J Simmons  
-    *Secular Studies 6 (1), 62-83* > An exploration of Indigenous nonbelievers, a group that complicates tidy narratives about both Indigeneity and secularism.
+* **Indigenous Atheists in Canada: Challenging Assumptions and Navigating Belonging** *Secular Studies 6 (1)* > [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2024-indigenous-atheists-in-canada.pdf)
 
-* **The Politics of Nonreligion** J Simmons  
-    *Secularity and Nonreligion in North America: An Introduction, 152*
+* **The Politics of Nonreligion** *In "Secularity and Nonreligion in North America: An Introduction"*
 
-### 2023
-* **Police officers as filmmakers: the cinematography of body worn cameras** A Sandhu, JS Simmons  
-    *Policing and Society 33 (5), 593-603* > Argues that cops with body cams are basically filmmakers, and we should analyze the footage like a movie to see how the narrative gets shaped.
+### 2022
+
+* **Police officers as filmmakers: the cinematography of body worn cameras** (with A. Sandhu)  
+    *Policing and Society* > [[PDF]]({{ site.baseurl }}/assets/pdf/sandhu-simmons-2022-police-officers-as-filmmakers.pdf) A theoretical piece that explores police body-worn cameras as a cinematic technology that shapes public and legal narratives.
 
 ### 2020
-* **Between Islam and Islamophobia: Stigma management among Canadian atheist activists** J Simmons, A Sandhu  
-    *Secular Studies 2 (2), 117-137* > A look at how ex-Muslim atheist activists are stuck between a rock and a hard place, dealing with stigma from two directions at once.
 
-* **Feminist women’s attitudes towards feminist men in the Canadian atheist movement** J Simmons  
-    *Religion and Gender 10 (2), 182-201* > Dives into the weird contradiction of feminist women in atheist groups wanting men to be feminists, but also finding those same men to be less masculine.
+* **Feminist Women’s Attitudes towards Feminist Men in the Canadian Atheist Movement** *Religion and Gender 10 (2)* > [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2020-feminist-womens-attitudes.pdf) This study explores how feminist women in the atheist movement perceive their male allies.
+
+* **Between Islam and Islamophobia: Stigma management among Canadian atheist activists** (with A. Sandhu)  
+    *Secular Studies 2 (2)* > [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-sandhu-2020-between-islam-and-islamophobia.pdf) Examines how atheist activists of Muslim heritage navigate the dual pressures of leaving their faith and being perceived as contributing to Islamophobia.
 
 ### 2019
-* **Homeopathy as a Form of Practical Magic** J Simmons  
-    *International Journal of Cultic Studies 10, 32-40*
 
-* **Politics, Individualism, and Atheism: An Examination of the Political Attitudes of Atheist Activists in a Canadian City** J Simmons  
-    *Secularism & Nonreligion 8 (2)* > Finds that despite disagreements, Canadian atheist activists are generally united by a cluster of liberal, Enlightenment-era ideals like personal liberty and free expression.
+* **Politics, Individualism, and Atheism: An Examination of the Political Attitudes of Atheist Activists in a Canadian City** *Secularism and Nonreligion 8* > [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2019-politics-individualism-and-atheism.pdf) This article examines the political attitudes and values of atheist activists in Edmonton, Alberta.
+
+* **Homeopathy As a Form of Practical Magic** *International Journal of Cultic Studies 10* > [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2019-homeopathy-as-magic.pdf) This paper argues that scholars should take the esoteric and magical roots of homeopathy seriously to understand its persistence.
 
 ### 2018
-* **‘Not that kind of atheist’: Scepticism as a lifestyle movement** J Simmons  
-    *Social Movement Studies 17 (4), 437-450* > [[PDF]]({{ site.baseurl }}/assets/pdf/not-that-kind-of-atheist-scepticism-as-a-lifestyle-movement.pdf) Examines how some atheist activists prefer the "sceptic" label to distance themselves from the political baggage of the New Atheism movement.
 
-* **Atheist Identity and Lifestyle Among Activists in Edmonton** J Simmons
-
-* **Resilient Gods: Being Pro-religious, Low Religious, Or No Religious in Canada** J Simmons  
-    *The Canadian Journal of Sociology 43 (1), 93-96*
+* **‘Not that kind of atheist’: Scepticism as a lifestyle movement** *Social Movement Studies 17 (4)* > [[PDF]]({{ site.baseurl }}/assets/pdf/not-that-kind-of-atheist-scepticism-as-a-lifestyle-movement.pdf)
 
 ### 2017
-* **Atheism plus what? Social justice and lifestyle politics among edmonton atheists** J Simmons  
-    *Canadian Journal of Sociology 42 (4), 425-446* > An analysis of the internal fractures in the atheist movement, particularly the clash between libertarian-leaning rationalists and the social justice-oriented "Atheism Plus" faction.
+
+* **Atheism Plus What? Social Justice and Lifestyle Politics Among Edmonton Atheists** *Canadian Journal of Sociology 42 (4)* > [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2017-atheism-plus-what.pdf) An ethnographic study of schisms within the secularist movement.
 
 ### 2015
-* **An Expansion of the Rational Choice Approach: Social Control in the Children of God during the 1970s and 1980s.** J Simmons, SA Kent  
-    *International Journal for the Study of New Religions 6 (1)* > Uses a rational choice framework to understand how a high-control group like the Children of God maintained its power over members.
 
-### 2014
-* **Review of Caught in the Pulpit: Leaving Belief Behind** J Simmons  
-    *Secularism and Nonreligion 3*
+* **An Expansion of the Rational Choice Approach: Social Control in the Children of God during the 1970s and 1980s** (with S.A. Kent)  
+    *International Journal for the Study of New Religions 6 (1)*
 
 ### 2012
-* **Positive psychology as a scientific movement** J Simmons  
-    *International Journal of Science in Society 4 (1), 43-52*
+
+* **Positive psychology as a scientific movement** *International Journal of Science in Society 4 (1)* > [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2012-positive-psychology-scientific-movement.pdf)
+
+---
+
+### Theses
+
+* **Atheist Identity and Lifestyle Among Activists in Edmonton** (2018)  
+    *PhD Dissertation, Department of Sociology, University of Alberta* > [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2018-phd-dissertation.pdf)
+
+* **Positive Psychology as a Scientific Movement: A Case Study in Scientific Legitimacy** (2012)  
+    *MA Thesis, Department of Sociology, University of New Brunswick* > [[PDF]]({{ site.baseurl }}/assets/pdf/simmons-2012-ma-thesis.pdf)
