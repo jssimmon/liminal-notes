@@ -1,5 +1,5 @@
 ---
-title: "Why the Semicolon is Stupid"
+title: "Why the semicolon is stupid"
 date: 2025-10-06
 ---
 
