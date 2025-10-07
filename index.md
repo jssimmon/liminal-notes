@@ -3,8 +3,6 @@ layout: home
 author_profile: false
 ---
 
-In my late teens and early 20s, a friend and I ran a film website that did surprisingly well. He handled the code; I handled the writing. This site is, in many ways, a return to that spirit. While the design shares a few nostalgic elements from that early project, the focus has changed.
-
 This is a repository for my professional work with strange bits on the side.
 
 ---
