@@ -2,17 +2,11 @@
 main:
   - title: "home"
     url: /
-  - title: "why atheism?"
-    url: /why-atheism/
-  - title: "questions i get"
-    url: /questions-i-get/
+  - title: "about"
+    url: /about/
   - title: "blog"
     url: /blog/
   - title: "academic articles"
     url: /articles/
-  - title: "projects"
-    url: /projects/
-  - title: "reading list"
-    url: /reading-list/
-  - title: "oddities"
-    url: /oddities/
+  - title: "cv"
+    url: /cv/
