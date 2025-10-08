@@ -3,7 +3,7 @@ layout: home
 author_profile: false
 ---
 
-Why "liminal notes"? Yes, it sounds a bit pretentious. In my defense, I spend too much time on the `r/LiminalSpace` subreddit, and the name stuck. It's meant to be about the spaces *between* ideas in sociology and the craft of writing, but it's mainly just a portfolio for that work. Here you'll find my academic articles, public essays, and the occasional blog post on why you should never use a semicolon.
+Why "liminal notes"? Yes, it sounds a bit pretentious. In my defense, I spend too much time on the [r/LiminalSpace](https://www.reddit.com/r/LiminalSpace/) subreddit, and the name stuck. It's meant to be about the spaces *between* ideas in sociology and the craft of writing, but it's mainly just a portfolio for that work. Here you'll find my academic articles, public essays, and the occasional blog post on why you should never use a semicolon.
 
 ![Liminal Gas Station at Night](/assets/images/liminal-gas-station.jpg){: .align-center}
 
