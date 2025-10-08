@@ -10,3 +10,9 @@ main:
     url: /articles/
   - title: "cv"
     url: /cv/
+  - title: "projects"
+    url: /projects/
+  - title: "reading list"
+    url: /reading-list/
+  - title: "oddities"
+    url: /oddities/
