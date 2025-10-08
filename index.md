@@ -3,7 +3,7 @@ layout: home
 author_profile: false
 ---
 
-My work sits at the intersection of sociology and the craft of writing. As a sociologist, I study how groups form identities, navigate conflict, and challenge ideas. As a writing advisor, I help people communicate their own complex work with clarity and precision. This site is a portfolio of that dual focus, containing academic articles, public essays, and resources on effective communication.
+Why "liminal notes"? Yes, it sounds a bit pretentious. In my defense, I spend too much time on the r/LiminalSpace subreddit, and the name stuck. It's meant to be about the spaces between ideas in sociology and the craft of writing, but it's mainly just a portfolio for that work. Here you'll find my academic articles, public essays, and the occasional blog post on why you should never use a semicolon.
 
 ---
 

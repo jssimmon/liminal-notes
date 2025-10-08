@@ -1,5 +1,5 @@
 # Site settings
-title: Liminal Notes
+title: liminal notes | jonathan simmons
 description: "Musings, scholarship, and other bits and pieces."
 url: "https://www.liminalnotes.ca"
 baseurl: ""
@@ -11,8 +11,8 @@ minimal_mistakes_skin: "dark"
 
 # Author settings
 author:
-  name: "Jonathan Simmons"
-  bio: "Research and writing on sociology, secularism, and culture."
+  name: "jonathan simmons"
+  bio: "The official portfolio and blog of jonathan simmons. Features academic and public writing on secularism, culture, and communication.
 
 # Defaults
 defaults:
@@ -27,3 +27,7 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# Custom CSS
+footer_scripts:
+  - /assets/css/custom.scss
