@@ -7,7 +7,8 @@ author_profile: true
 
 My scholarly work explores the sociology of non-religion, with a focus on atheist activism and identity. A recurring theme across these publications is the tension between individualism and community. I am particularly interested in how non-believers navigate internal political conflicts, manage social stigma, and construct meaningful identities in a world that often defaults to belief.
 
-**For a complete overview of my professional experience and education, please see my [CV](/liminal-notes/cv/).**
+/liminal-notes:
+**For a complete overview of my professional experience and education, please see my [CV](/cv/).**
 
 ### 2025
 
