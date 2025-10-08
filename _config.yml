@@ -1,8 +1,8 @@
 # Site settings
 title: Liminal Notes
 description: "Musings, scholarship, and other bits and pieces."
-url: "https://jssimmon.github.io"
-baseurl: "/liminal-notes"
+url: "https://www.liminalnotes.ca"
+baseurl: ""
 repository: "jssimmon/liminal-notes"
 
 # Theme settings
