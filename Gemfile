@@ -1,16 +1,13 @@
 source "https://rubygems.org"
 
+# Specify Jekyll and the theme
 gem "jekyll", "~> 4.3"
 gem "minimal-mistakes-jekyll", "~> 4.24"
 
-# This is the default Jekyll theme. Can be removed.
-# gem "minima", "~> 2.5"
+# For local development server
+gem "webrick"
 
-# This will help with syntax highlighting
-gem "rouge", "~> 3"
-
-# This is for automatically generating a sitemap
+# Common Jekyll plugins that are useful
+gem "jekyll-feed"
+gem "jekyll-paginate"
 gem "jekyll-sitemap"
-gem "jekyll-gist"
-gem "jekyll-feed", "~> 0.15"
-gem "jekyll-include-cache", "~> 0.2"
