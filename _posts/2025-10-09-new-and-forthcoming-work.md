@@ -4,7 +4,7 @@ date: 2025-10-09
 ---
 
 ---
-title: "New and forthcoming Wwork"
+title: "New and forthcoming work"
 date: 2025-10-09
 ---
 
