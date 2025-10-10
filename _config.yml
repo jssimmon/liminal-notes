@@ -30,5 +30,5 @@ defaults:
       related: true
 
 # Scripts applied to the footer
-footer_scripts:
-  - /assets/css/custom.scss
+#footer_scripts:
+  #- /assets/css/custom.scss
