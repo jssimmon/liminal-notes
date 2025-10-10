@@ -38,8 +38,8 @@ Finally, some ask whether a secular worldview is empty or meaningless. The searc
 
 ---
 
-### Other Pages
+### other pages
 
-* **[projects](/liminal-notes/projects/)**: A grab-bag of current work, forthcoming publications, and other items.
-* **[reading list](/liminal-notes/reading-list/)**: A log of books I'm reading or have completed.
-* **[oddities](/liminal-notes/oddities/)**: Miscellaneous thoughts and links.
+* [projects](/projects/): A grab-bag of current work, forthcoming publications, and other items.
+* [reading list](/reading-list/): A log of books I'm reading or have completed.
+* [oddities](/oddities/): Miscellaneous thoughts and links.
