@@ -23,11 +23,12 @@ defaults:
     values:
       layout: single
       author_profile: false # <-- Hides author profile from blog posts by default
+      show_date: true      # <-- This will display the date on your blog posts
       read_time: true
       comments: # true
       share: true
       related: true
 
-# Custom CSS
+# Scripts applied to the footer
 footer_scripts:
   - /assets/css/custom.scss
