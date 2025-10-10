@@ -1,6 +1,6 @@
 # Site settings
 title: "liminal notes | jonathan simmons"
-description: "The official portfolio and blog of Jonathan Simmons. Features academic and public writing on secularism, culture, and communication."
+description: "The official portfolio and blog of jonathan simmons. Features academic and public writing on secularism, culture, and communication."
 url: "https://www.liminalnotes.ca"
 baseurl: ""
 repository: "jssimmon/liminal-notes"
@@ -11,7 +11,7 @@ minimal_mistakes_skin: "dark"
 
 # Author settings
 author:
-  name: "Jonathan Simmons"
+  name: "jonathan simmons"
   bio: "Research and writing on sociology, secularism, and culture."
 
 # Defaults
